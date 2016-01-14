@@ -1,0 +1,6 @@
+name: NoKickOnlinePlayers
+main: Richen\Main
+api: 1.12.0
+version: 0.0.1
+load: STARTUP
+author: Richen
