@@ -1,6 +1,6 @@
 <?php
 
-namespace Main;
+namespace Richen;
 
 use pocketmine\event\player\PlayerPreLoginEvent;
 use pocketmine\plugin\PluginBase;
